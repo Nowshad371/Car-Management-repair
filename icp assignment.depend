@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602737372 source:c:\users\nawshad\desktop\c programming\icp assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+

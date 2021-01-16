@@ -1,0 +1,26 @@
+
+invoice number: 1
+name: nowshad
+service_Date(mm/day/yyyy): 10/288/2020
+car_registration number: 12345
+service type: normal
+service number: 3
+service fee 80
+
+
+invoice number: 1
+name: nowshad
+service_Date(mm/day/yyyy): 10/288/2020
+car_registration number: 1234
+service type: normal
+service number: 6
+service fee 6
+
+
+invoice number 1
+name: nowshad
+service_Date(mm/day/yyyy): 10/291/2020
+car_registration number: r123
+service type: urgent
+service number: 4
+service fee 140
